@@ -1,0 +1,6 @@
+pygame
+opencv-python
+ttkthemes
+pycaw
+mediapipe
+comptypes
